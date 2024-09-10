@@ -1,5 +1,3 @@
-title-heading: false
-
 # Logging on to Netsweeper 
 
 browse to: https://wavenetcloud.netsweeper.com/webadmin/start

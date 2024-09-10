@@ -1,6 +1,6 @@
 # Logging on to Netsweeper 
 
-browse to: [https://wavenetcloud.netsweeper.com/webadmin/start](https://wavenetcloud.netsweeper.com/webadmin/start){:target="_blank" rel="noopener"}
+browse to: [wavenetcloud.netsweeper.com/webadmin/start](https://wavenetcloud.netsweeper.com/webadmin/start){:target="_blank" rel="noopener"}
 
 ![Netsweeper-login](Screenshot_10-9-2024_182751_wavenetcloud.netsweeper.com.jpeg)
 

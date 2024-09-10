@@ -1,2 +1,3 @@
 name: true
 title: false
+markdown: kramdown
